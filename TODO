@@ -1,0 +1,7 @@
+X iexcloud API pull 
+X Config for symbols
+X Token security (use ENV)
+
+- Global Store of Quotes
+- Collect via channels
+- Mutex lock for Global Update
