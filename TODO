@@ -2,6 +2,8 @@ X iexcloud API pull
 X Config for symbols
 X Token security (use ENV)
 
+- Start adding unit tests
+
 - Global Store of Quotes
 - Collect via channels
 - Mutex lock for Global Update
